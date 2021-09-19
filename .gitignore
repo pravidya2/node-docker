@@ -2,3 +2,4 @@ node_modules/
 .history/
 docker-compose-dev.yml
 docker-compose.backup.yml
+.env

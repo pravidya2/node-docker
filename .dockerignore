@@ -2,6 +2,7 @@ node_modules
 Dockerfile
 .dockerignore
 .env
+.history
 .git
 .gitignore
 docker-compose*

@@ -10,6 +10,7 @@ services:
 
   node-app:
     build: .
+    image: pravidya2/node-app-mongo-1
     ports:
       - "3000:3000"
     environment:
